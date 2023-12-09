@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserLatencyMeasurement .NET 8", "UserLatencyMeasurement .NET 8\UserLatencyMeasurement .NET 8.csproj", "{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THX.NET.TraceLogging", "..\..\thx\apo2.release-3.x.x.x\thx_util\vs\THX.NET.TraceLogging\THX.NET.TraceLogging.csproj", "{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Debug|x64.ActiveCfg = Debug|x64
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Debug|x64.Build.0 = Debug|x64
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|x64.ActiveCfg = Release|x64
+		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|x64.Build.0 = Release|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|Any CPU.Build.0 = Debug|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|x64.ActiveCfg = Debug|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|x64.Build.0 = Debug|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|Any CPU.ActiveCfg = Release|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|Any CPU.Build.0 = Release|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|x64.ActiveCfg = Release|x64
+		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE350CB0-5199-4902-B22E-9BEF2FBED742}
+	EndGlobalSection
+EndGlobal
