@@ -1,0 +1,3 @@
+[submodule "thx_util"]
+	path = thx_util
+	url = git@bitbucket.org:thxltd/thx_util.git

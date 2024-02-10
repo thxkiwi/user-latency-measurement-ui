@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\thx\apo2.release-3.x.x.x\thx_util\vs\THX.NET.TraceLogging\THX.NET.TraceLogging.csproj" />
+    <ProjectReference Include="..\thx_util\vs\THX.NET.TraceLogging\THX.NET.TraceLogging.csproj" />
   </ItemGroup>
 
 </Project>

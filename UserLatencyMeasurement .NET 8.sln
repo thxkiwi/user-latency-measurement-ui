@@ -5,7 +5,7 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserLatencyMeasurement .NET 8", "UserLatencyMeasurement .NET 8\UserLatencyMeasurement .NET 8.csproj", "{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THX.NET.TraceLogging", "..\..\thx\apo2.release-3.x.x.x\thx_util\vs\THX.NET.TraceLogging\THX.NET.TraceLogging.csproj", "{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "THX.NET.TraceLogging", "thx_util\vs\THX.NET.TraceLogging\THX.NET.TraceLogging.csproj", "{3237DFBD-1593-4896-92A2-52A4D8D1468F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,14 +23,14 @@ Global
 		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|x64.ActiveCfg = Release|x64
 		{E561D74F-A6AF-4D2C-9190-DDB3B7F97371}.Release|x64.Build.0 = Release|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|Any CPU.Build.0 = Debug|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|x64.ActiveCfg = Debug|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Debug|x64.Build.0 = Debug|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|Any CPU.ActiveCfg = Release|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|Any CPU.Build.0 = Release|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|x64.ActiveCfg = Release|x64
-		{0DF0FB4F-552B-427A-A3AB-A50CDC49AD9B}.Release|x64.Build.0 = Release|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Debug|Any CPU.Build.0 = Debug|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Debug|x64.ActiveCfg = Debug|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Debug|x64.Build.0 = Debug|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Release|Any CPU.ActiveCfg = Release|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Release|Any CPU.Build.0 = Release|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Release|x64.ActiveCfg = Release|x64
+		{3237DFBD-1593-4896-92A2-52A4D8D1468F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
